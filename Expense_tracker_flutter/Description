@@ -1,0 +1,23 @@
+This application adds and tracks transactions done by user in last week . 
+Also , it has chart that depicts total expenditure with visual chart in it . 
+User can select Date and then can add List of Transactions to it . 
+
+
+Learnt : 
+Flutter fundamentals : 
+1.Composing UI from built in and custom widgets 
+2.Using 3rd party packages 
+
+Styling and Configuration :
+1. Styling widgets and Layouts 
+2.Understanding styling widgets and container purpose 
+
+Theming : 
+1.global theming for text , buttons via Theme.of(context)
+2. Undestanding Theme settings 
+3.Application and usage 
+
+Module Connections
+1.Lift State Up 
+2.Pass function reference and data around 
+3. Adjusting UI custom acc to logic 
